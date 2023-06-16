@@ -1,6 +1,7 @@
 # Copyright (c) Microsoft Corporation.
 # Licensed under the MIT License.
-
+# wyj
+import py_compile
 from planningLLM import planningLLM
 from executingLLM import executingLLM
 import json
